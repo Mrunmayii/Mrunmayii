@@ -2,9 +2,10 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello World, I'm Mrunmayi</h1>
 <h3>About Me 🚀</h3>
 
-- 🎓 I am a Second Year Computer Engineering student, currently studying at D.Y. Patil College of Engineering, Akurdi, PUNE. 
+- 🎓 I am a Second Year Computer Engineering student,
+     <br>currently studying at D.Y. Patil College of Engineering, Akurdi, PUNE. 
 
-- 🌱 I’m currently learning Android studio
+- 🌱 I’m currently learning Android Development
 
 - ⭐ I love Competetive Programming
 
