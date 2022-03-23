@@ -4,6 +4,8 @@
 <h2> About Me  <img src="https://user-images.githubusercontent.com/91387531/148031057-565165e8-e1eb-4389-b30f-182732b91683.gif" height="50px" align="bottom" >
  </h2>
 
+<img src="https://user-images.githubusercontent.com/100932088/159765590-1f58624d-7297-43c4-9bef-a521fc88483e.gif" align="right" height="200">
+
 - 🎓 I am a Second Year Computer Engineering student, currently studying at D.Y. Patil College of Engineering, Akurdi, PUNE.<br>
 
     
