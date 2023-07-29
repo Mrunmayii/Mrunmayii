@@ -16,10 +16,7 @@
 <h3 align="center">Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align="center" >
 <a href="https://www.linkedin.com/in/mrunmayishirke/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="mrunmayishirke" /></a>
-<a href="https://instagram.com/mrunmayiii__" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="mrunmayiii__" /></a>
 <a href="https://www.codechef.com/users/mrunmayii" target="blank"><img align="center" src="https://img.shields.io/badge/codechef-967444?logo=codechef&logoColor=white&style=for-the-badge" alt="mrunmayii"/></a>
-<a href="https://www.hackerrank.com/shirke_mrunmayi" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-0AC44B?logo=hackerrank&logoColor=white&style=for-the-badge" alt="shirke_mrunmayi" /></a>
-<a href="https://twitter.com/Mrunmay48236494" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Mrunmay48236494" /></a>
 </p>
 <br>
 
