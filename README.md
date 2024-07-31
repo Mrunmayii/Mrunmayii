@@ -40,7 +40,8 @@
 </p>
 
 <br>
-<h3 >Github Stats</h3>
+<!-- <h3 >Github Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Mrunmayii&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mrunmayii&theme=dark&hide_border=true)<br/>
+ -->
