@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Mrunmayi</h1>
 
 <p > <img src="https://komarev.com/ghpvc/?username=mrunmayii&label=Profile%20views&color=0e75b6&style=flat" alt="mrunmayii" /> </p>
-🎓 I am a Computer Science and Engineering student, currently pursuing my Master's at International Institute of Information Technology, Bangalore.<br>
+🎓 I am a Computer Science and Engineering student, currently pursuing my postgraduate studies at International Institute of Information Technology, Bangalore.<br>
 🌱 I’m an Android Developer and a Competitive Programmer<br>
 
 <h3 >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
@@ -40,10 +40,9 @@
 </p>
 
 <br>
-<h3 >Github Stats</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mrunmayii&theme=dark&hide_border=true)<br/>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Mrunmayii&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> --!>
-
+<strong>GitHub Stats ⚡</strong>
+<br>
+<img align="centre" src="https://github-readme-stats.vercel.app/api/?username=Mrunmayii&hide_border=True&show_icons=True&layout=compact&theme=dark" />
+<img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Mrunmayii&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
