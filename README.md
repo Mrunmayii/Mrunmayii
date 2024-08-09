@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Mrunmayi</h1>
 
 <p > <img src="https://komarev.com/ghpvc/?username=mrunmayii&label=Profile%20views&color=0e75b6&style=flat" alt="mrunmayii" /> </p>
-🎓 I am a Computer Engineering student, currently studying at D.Y. Patil College of Engineering, Akurdi, PUNE.<br>
+🎓 I am a Computer Science and Engineering student, currently pursuing my Master's at International Institute of Information Technology, Bangalore.<br>
 🌱 I’m an Android Developer and a Competitive Programmer<br>
 
 <h3 >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
